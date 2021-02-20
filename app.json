@@ -2,7 +2,7 @@
 {
   "name": "Lecch Bot",
   "description": "Lazy Leech"
-  "keywords": [
+  "keywords":: [
     "telegram"
   ],
   "repository": "https://github.com/hindihd/xl",

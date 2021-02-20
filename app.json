@@ -1,6 +1,6 @@
 
 {
-  "name": "Telegram Bot",
+  "name": "Lecch Bot",
   "description": "Lazy Leech"
   "keywords": [
     "telegram"
@@ -20,14 +20,14 @@
       "description": "Get this value from https://my.telegram.org",
       "value": ""
     },
-    "TG_BOT_TOKEN": {
+    "BOT_TOKEN": {
       "description": "get this value from @BotFather",
       "value": ""
     },
-    "AUTH_CHANNEL": {
+    "EVERYONE_CHATS": {
       "description": "should be an integer. The BOT API ID of the Telegram Group, where the Leecher should work.",
       "value": ""
     },
-    "OWNER_ID": {
+    "ADMIN_CHATS": {
       "description": "should be an integer. ID of owner of bot",
       "value": ""

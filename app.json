@@ -5,7 +5,7 @@
   "keywords": [
     "telegram"
   ],
-  "repository": "",
+  "repository": "https://github.com/hindihd/xl",
   "success_url": "https://t.me/sensei_anime",
   "env": {
     "ENV": {
@@ -14,4 +14,20 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
+      "value": ""
+    },
+"API_HASH": {
+      "description": "Get this value from https://my.telegram.org",
+      "value": ""
+    },
+    "TG_BOT_TOKEN": {
+      "description": "get this value from @BotFather",
+      "value": ""
+    },
+    "AUTH_CHANNEL": {
+      "description": "should be an integer. The BOT API ID of the Telegram Group, where the Leecher should work.",
+      "value": ""
+    },
+    "OWNER_ID": {
+      "description": "should be an integer. ID of owner of bot",
       "value": ""

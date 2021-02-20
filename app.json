@@ -2,9 +2,7 @@
 {
   "name": "Lecch Bot",
   "description": "Lazy Leech"
-  "keywords":: [
-    "telegram"
-  ],
+  
   "repository": "https://github.com/hindihd/xl",
   "success_url": "https://t.me/sensei_anime",
   "env": {

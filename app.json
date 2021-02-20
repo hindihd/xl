@@ -1,1 +1,17 @@
 
+{
+  "name": "Telegram Bot",
+  "description": "Lazy Leech"
+  "keywords": [
+    "telegram"
+  ],
+  "repository": "",
+  "success_url": "https://t.me/sensei_anime",
+  "env": {
+    "ENV": {
+      "description": "Setting this to ANYTHING will enable webhooks when in env mode",
+      "value": "ANYTHING"
+    },
+    "APP_ID": {
+      "description": "Get this value from https://my.telegram.org",
+      "value": ""
